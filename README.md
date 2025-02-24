@@ -1,4 +1,3 @@
-# Sentiment-Analysis-using-ML
 # Twitter Sentiment Analysis using Machine Learning
 
 ## Overview
