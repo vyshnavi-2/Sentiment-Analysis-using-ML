@@ -88,7 +88,7 @@ print('Positive Tweet' if prediction[0] == 1 else 'Negative Tweet')
 
 ## Repository Structure
 ```
-📂 Twitter-Sentiment-Analysis
+Twitter-Sentiment-Analysis
 │── sentiment140/                   # Downloaded dataset
 │── trained_model.sav                # Saved model
 │── kaggle.json                       # Kaggle API credentials (DO NOT SHARE)
